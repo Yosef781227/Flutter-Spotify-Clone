@@ -1,10 +1,9 @@
 # Flutter-Spotify
 
-## [Watch it on Youtube](https://www.youtube.com/channel/UCM1OzZsZ5FQIg01vdKGAw7g)
 
 Spotify Ui Design
 
- In this repository contains Redesign Spotify App using Flutter.
+This repository is home to a creative redesign of the Spotify App, meticulously crafted using Flutter. Led by Yosef Nakachew, this project takes the core experience of Spotify and elevates it with a fresh, intuitive UI and enhanced features, demonstrating the power of Flutter in building sophisticated, cross-platform mobile applications. Dive into the code to discover custom animations, state management for seamless user experiences, and API integration for live music streaming. Whether you're a Flutter enthusiast or a music app aficionado, this project offers rich insights into app development and design. Contribute, learn, and get inspired to create your own Flutter-based applications.
 
 ## Screenshots
 
@@ -23,16 +22,16 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 ## Created & Maintained By
 
-- [Instagram](https://www.instagram.com/faiz.rhm)
-- [Youtube Channel](https://www.youtube.com/channel/UCM1OzZsZ5FQIg01vdKGAw7g)
-- [Twitter](https://twitter.com/faiz_rhm)
+
+- [Linkdin](https://www.linkedin.com/in/yosefdegarege/)
+- [Github](https://github.com/Yosef781227)
 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter project :
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
